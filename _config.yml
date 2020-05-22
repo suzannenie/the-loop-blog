@@ -1,15 +1,15 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: nie.suzanne01@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: The Loop
+title: The Loop Blog
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  This is the quarantine blog featuring the Loop. [made with the barber theme, http://barber.samesies.io]
 url: http://barber.samesies.io
-twitter_username: thomasvaeth
+twitter_username: notwitter
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
