@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Burritos"
+date: 2020-03-26
+description: Burritos. Do we ever get sick of them?
+image: /assets/images/burritoaftermar26.jpg
+author: 
+tags: 
+  - Suzanne
+---
+
+
+The answer is no.
+
+<hr/>
+
+Look how they are before the assembly line.
+![Before picture](/assets/images/burritobeforemar26.jpg)
