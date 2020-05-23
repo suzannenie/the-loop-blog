@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Teen Goslings"
+date: 2020-05-22
+description: They're really ugly but it's just a phase.
+image: /assets/images/teengeese.jpg
+author: 
+tags: 
+  - Suzanne
+---
+
+When geese are babies they're all cute and fluffy and small. Exhibit A:
+
+![Goslings](/assets/images/goslingsmay2.jpg)
+
+But then they grow up and they become all ugly and hairless and oddly mishapen
+and maybe humans are the same but for geese it's only a phase. Human babies can 
+be ugly too.

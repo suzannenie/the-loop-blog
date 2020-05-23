@@ -3,11 +3,10 @@ layout: post
 title: "Lemon Squares"
 date: 2020-05-22
 description: These were so good.
-image: /assets/images/lemon-squares.jpg
+image: /assets/images/lemonsquares.jpg
 author: 
 tags: 
   - Suzanne
-  - Joanne
   - Maddy
 ---
 
