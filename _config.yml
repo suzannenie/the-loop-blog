@@ -8,7 +8,7 @@ name: The Loop
 title: The Loop Blog ⭕
 description: >
   This is the quarantine blog featuring the Loop. [made with the barber theme, http://barber.samesies.io]
-url: http://barber.samesies.io
+url: https://the-loop-blog.netlify.app/
 twitter_username: no twitter
 default_img: /assets/images/loopprofile.jpg
 social:
@@ -23,7 +23,7 @@ social:
 
 # Contact settings
 contact_img: /assets/images/loopprofile.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+formcarry: https://formcarry.com/s/IbzWc3R2k1s9
 
 # Disqus settings
 disqus: test-apkdzgmqhj

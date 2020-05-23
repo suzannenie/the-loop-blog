@@ -1,28 +1,46 @@
-<form id="form" class="form" action="{{ site.formcarry }}" method="POST">
+<style>
+  .formlabel {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .formtext {
+    margin: 0px;
+    padding: 10px 0px;
+  }
+</style>
+
+
+<form id="form" class="form" action="{{ site.formcarry }}" method="POST" enctype="multipart/form-data">
   <div class="form__subcontainer">
     <div>
-      <label for="form-first-name">First Name</label>
-      <input type="text" name="first-name" id="form-first-name" required>
+      <label class = "formlabel" for="form-name">Name</label>
+      <input class = "formtext" type="text" name="Name" id="form-name" required>
     </div>
     <div>
-      <label for="form-last-name">Last Name</label>
-      <input type="text" name="last-name" id="form-last-name" required>
+      <label class = "formlabel" for="form-title">Title</label>
+      <input class = "formtext" type="text" name="title" id="form-title" required>
     </div>
   </div>
 
   <div>
-    <label for="form-email">E-Mail</label>
-    <input type="email" name="email" id="form-email" required>
+    <label class = "formlabel" for="form-description">Description</label>
+    <input class = "formtext" type="text" name="description" id="form-description" required>
   </div>
 
   <div>
-    <label for="form-message">Message</label>
-    <textarea name="message" id="form-message" rows="3"></textarea>
+      <label class = "formlabel" for="form-picture">Cover Image jpg + any other images ya wanna include (select all at once)</label>
+      <input type="file" name="picture" id="form-main-image" multiple>
+  </div>
+
+  <div>
+    <label class = "formlabel" for="form-content">Post content</label>
+    <textarea class = "formtext" name="message" id="form-content" rows="4"></textarea>
   </div>
 
   <div class="form__submit">
     <div class="form__btn">
-      <input type="submit" value="Send">
+      <input type="submit" value='"Post"'>
     </div>
   </div>
 
