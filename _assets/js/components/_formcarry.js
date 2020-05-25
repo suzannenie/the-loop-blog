@@ -16,11 +16,13 @@ const Formcarry = (() => {
         body: $('body'),
         form: $('#form'),
         formAction: $('#form').attr('action'),
+        formEnctype: $('#form').attr('enctype'),
         formMessage: $('.form__message'),
         animation: 'fade-in',
         open: 'js-popup-open',
         overflow: 'js-overflow',
-        closing: 'js-popup-closing'
+        closing: 'js-popup-closing',
+        enctype: "multipart/form-data",
       };
     },
 
@@ -39,9 +41,12 @@ const Formcarry = (() => {
 
         $.ajax({
           url: s.formAction,
-          method: 'POST',
-          data: s.form.serialize(),
-          dataType: 'json',
+          type: 'POST',
+          data: new FormData(this),
+            dataType: "json",
+            processData: false,
+            contentType: false,
+
           success: () => {
             s.body.addClass(s.closing);
             s.body.removeClass(s.open);
