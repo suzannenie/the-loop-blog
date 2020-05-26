@@ -1,23 +1,18 @@
 ---
-layout: default
-pagination:
-  enabled: true
+layout: page
+title: Opinions
+image: 
 ---
-
-<!-- The main content area -->
-<div class="posts">
-        <div class="grid-large">
-          <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-      
-            {% for post in paginator.posts %}
-      
-              <!-- The tag below includes the markup for each post - partials/post-card.html -->
-              {% include post-card.html %}
-      
-            {% endfor %}
-          </div>
-        </div>
-      
-        {% include pagination.html %}
-      </div>
-</div>      
+<style>
+  .text {
+    padding: 2% 0% 2% 0%;
+  }
+  .opinion {
+    text-align: center;
+    padding: 2% 0% 0% 0%;
+  }
+</style>
+<div class = "text">
+    <p class="opinion">1. Marco would win the Hunger Games and Amy would die first. </p>
+    <p class="opinion">2. Docs bagels hit different </p>
+</div>
