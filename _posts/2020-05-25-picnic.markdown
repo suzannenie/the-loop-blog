@@ -1,0 +1,12 @@
+---
+layout: post
+title: loop picnic
+date: 2020-05-25
+description: Memorial Day
+image: /assets/images/picnic.jpg
+author: 
+tags: 
+  - Joanne
+---
+
+we somehow laid there for like 4 hours eating and needing to pee. Kaylee lost her keys but it was a good time.

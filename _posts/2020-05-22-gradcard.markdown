@@ -1,0 +1,11 @@
+---
+layout: post
+title: grad card
+date: 2020-05-22
+description: that s bothers me but Im not gonna redo it
+image: /assets/images/gradcard.jpg
+author: 
+tags: 
+  - Joanne
+---
+
