@@ -9,4 +9,4 @@ tags:
   - Maddy
 ---
 
-'ve invested in some cargos. Classic olive green. Please ignore the cringey picture I was excited. All I can say is that at least its not jeans.
+I've invested in some cargos. Classic olive green. Please ignore the cringey picture I was excited. All I can say is that at least its not jeans.
