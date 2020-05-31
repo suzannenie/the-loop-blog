@@ -1,0 +1,12 @@
+---
+layout: post
+title: NASA and SpaceX Making History
+date: 2020-05-30
+description: Elon Musk really out here though
+image: /assets/images/zoom.png
+author: 
+tags: 
+  - Maddy
+---
+
+Watched the live stream take off today, it all went well and successful launch. First manned mission since 2011. Historical moment and a new chapter to space exploration, soon to commercial flights. Figured it should be mentioned somewhere on this blog.
